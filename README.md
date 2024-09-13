@@ -20,8 +20,8 @@
 | Student Name | Student Email | GitHub Username | Student's role |
 | :----------: | :-----------: | :-------------: | :------------: |
 |   Bisum Tiwana   | btiwana@mail.sfsu.edu |      SpindlyGold019       |  Team Leader   |
-|   Sanna Mohabbat | smohabbat@sfsu.edu    |      jdoe                 |  Team Leader   |
-|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   Sanna Mohabbat | smohabbat@sfsu.edu    |      SannaMoha                 |  Team Leader   |
+|   John Doe   | jdoe@sfsu.edu |  jdoe    |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
