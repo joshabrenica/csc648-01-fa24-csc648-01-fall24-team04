@@ -1,4 +1,4 @@
-# CSC648-S0X-FA24-teamNum Repository
+# CSC648-S01-FA24-team04 Repository
 
 **Application URL: <https://example.com>**
 
@@ -19,6 +19,11 @@
 
 | Student Name | Student Email | GitHub Username | Student's role |
 | :----------: | :-----------: | :-------------: | :------------: |
+|   Bisum Tiwana   | btiwana@mail.sfsu.edu |      SpindlyGold019       |  Team Leader   |
+|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 
 **NO code should be stored in the root of your repository. You may rename the
