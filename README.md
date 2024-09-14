@@ -22,7 +22,7 @@
 |  Bisum Tiwana  | btiwana@mail.sfsu.edu | SpindlyGold019  |  Team Leader   |
 | Sanna Mohabbat |  smohabbat@sfsu.edu   |    SannaMoha    |  Team Leader   |
 |    Zoe Long    |    zlong1@sfsu.edu    |    ZoeLong98    |  Team Leader   |
-|    John Doe    |     jdoe@sfsu.edu     |      jdoe       |  Team Leader   |
+|  Junyoung Kim  |     jkim42@sfsu.edu   |  coder-j-0090   |Database(Backend)|
 |    John Doe    |     jdoe@sfsu.edu     |      jdoe       |  Team Leader   |
 |    John Doe    |     jdoe@sfsu.edu     |      jdoe       |  Team Leader   |
 
