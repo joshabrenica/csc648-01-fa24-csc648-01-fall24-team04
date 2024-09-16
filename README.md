@@ -23,7 +23,7 @@
 | Sanna Mohabbat |  smohabbat@sfsu.edu   |    SannaMoha    |  Team Leader   |
 |    Zoe Long    |    zlong1@sfsu.edu    |    ZoeLong98    |  Team Leader   |
 |  Junyoung Kim  |     jkim42@sfsu.edu   |  coder-j-0090   |Database(Backend)|
-|    John Doe    |     jdoe@sfsu.edu     |      jdoe       |  Team Leader   |
+|Anisah Chowdhury|anisahchowdhury28@gmail.com|anisahc      |    Backend     |
 |    John Doe    |     jdoe@sfsu.edu     |      jdoe       |  Team Leader   |
 
 **NO code should be stored in the root of your repository. You may rename the
