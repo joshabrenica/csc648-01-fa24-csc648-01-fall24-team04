@@ -20,7 +20,7 @@
 |   Student Name   |        Student Email        | GitHub Username |  Student's role   |
 | :--------------: | :-------------------------: | :-------------: | :---------------: |
 |   Bisum Tiwana   |    btiwana@mail.sfsu.edu    | SpindlyGold019  |    Team Leader    |
-|  Sanna Mohabbat  |     smohabbat@sfsu.edu      |    SannaMoha    |    Team Leader    |
+|  Sanna Mohabbat  |     smohabbat@sfsu.edu      |    SannaMoha    |    Frontend,Backend   |
 |     Zoe Long     |       zlong1@sfsu.edu       |    ZoeLong98    |     Frontend      |
 |   Junyoung Kim   |       jkim42@sfsu.edu       |  coder-j-0090   | Database(Backend) |
 | Anisah Chowdhury | anisahchowdhury28@gmail.com |     anisahc     |      Backend      |
