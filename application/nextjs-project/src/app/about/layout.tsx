@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 function Navbar() {
   return (
@@ -8,7 +8,7 @@ function Navbar() {
           <Link href="/about/bisum">Bisum</Link>
         </li>
         <li>
-          <Link href="/">notDefined</Link>
+          <Link href="/about/zoe">Zoe</Link>
         </li>
         <li>
           <Link href="/">notDefined</Link>
@@ -18,17 +18,15 @@ function Navbar() {
   );
 }
 
-
 export default function DashboardLayout({
-    children,
-  }: {
-    children: React.ReactNode
-  }) {
-    return (
-        <>
-            <Navbar/>
-            <section>{children}</section>
-        </>
-        
-    );
-  }
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <>
+      <Navbar />
+      <section>{children}</section>
+    </>
+  );
+}
