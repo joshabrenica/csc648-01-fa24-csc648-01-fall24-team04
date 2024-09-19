@@ -1,0 +1,5 @@
+.neo-box {
+    border-radius: 28px;
+    background: linear-gradient(145deg, #56c679, #66eb8f);
+    box-shadow: 8px 8px 16px #4dbb6f, -8px -8px 16px #71ff9b; /* Softer shadows for a more realistic effect */
+}
