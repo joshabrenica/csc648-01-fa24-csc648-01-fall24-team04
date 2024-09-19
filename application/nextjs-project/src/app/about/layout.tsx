@@ -8,6 +8,15 @@ function Navbar() {
           <Link href="/about/bisum">Bisum</Link>
         </li>
         <li>
+          <Link href="/about/anisah">Anisah</Link>
+        </li>
+        <li>
+          <Link href="/">notDefined</Link>
+        </li>
+        <li>
+          <Link href="/">notDefined</Link>
+        </li>
+        <li>
           <Link href="/about/zoe">Zoe</Link>
         </li>
         <li>
