@@ -11,7 +11,7 @@ function Navbar() {
           <Link href="/about/anisah">Anisah</Link>
         </li>
         <li>
-          <Link href="/">notDefined</Link>
+          <Link href="/about/sanna">Sanna</Link>
         </li>
       </ul>
     </nav>
