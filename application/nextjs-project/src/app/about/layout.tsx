@@ -11,10 +11,10 @@ function Navbar() {
           <Link href="/about/anisah">Anisah</Link>
         </li>
         <li>
-          <Link href="/about/josh">Josh</Link>
+          <Link href="/about/sanna">Sanna</Link>
         </li>
         <li>
-          <Link href="/">notDefined</Link>
+          <Link href="/about/josh">Josh</Link>
         </li>
         <li>
           <Link href="/about/zoe">Zoe</Link>
