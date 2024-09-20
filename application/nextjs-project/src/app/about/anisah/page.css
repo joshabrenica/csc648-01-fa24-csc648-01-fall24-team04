@@ -1,0 +1,22 @@
+.custom-container {
+    /* Add any custom styles you want */
+    padding: 2rem;
+}
+
+.custom-box {
+    border: 1px solid #000000; /* Gray */
+    border-radius: 0.7rem; /* Rounded */
+    background-color: white; /* White */
+    box-shadow: 0 50px 50px rgba(0, 0, 0, 0.3); /* Shadow */
+    padding: 50px;
+}
+
+.custom-title {
+    font-size: 2.5rem; /* Custom size */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.custom-subtitle {
+    font-size: 1.5rem; /* Custom size */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
