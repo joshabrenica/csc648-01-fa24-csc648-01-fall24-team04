@@ -24,7 +24,7 @@
 |     Zoe Long     |       zlong1@sfsu.edu       |    ZoeLong98    |     Frontend      |
 |   Junyoung Kim   |       jkim42@sfsu.edu       |  coder-j-0090   | Database(Backend) |
 | Anisah Chowdhury | anisahchowdhury28@gmail.com |     anisahc     |      Backend      |
-|     John Doe     |        jdoe@sfsu.edu        |      jdoe       |    Team Leader    |
+|     Joshua Abrenica     |        jabrenica@sfsu.edu        |      joshabrenica       |    Github Master    |
 
 **NO code should be stored in the root of your repository. You may rename the
 `application/` folder to your team's application name if you'd like, but all the
